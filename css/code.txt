@@ -1,5 +1,5 @@
 code
 <div>
   Email here
-  Contacts here too
+  Contacts here
 </div>
